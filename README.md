@@ -7,9 +7,9 @@
 
 ## 🧪 Roadmap
 
-| Ongoing projects                                                         |              Currently updating              |                                        Next projects |
-| :----------------------------------------------------------------------- | :------------------------------------------: | ---------------------------------------------------: |
-| <ul><li>Workspace as a service</li><li>Project management tool</li></ul> | <ul><li>Leetcode</li><li>This page</li></ul> | <ul><li>3d art portfolio</li><li>TLS proxy</li></ul> |
+| Ongoing projects                                                         |              Currently updating              |                                                                   Next projects |
+| :----------------------------------------------------------------------- | :------------------------------------------: | ------------------------------------------------------------------------------: |
+| <ul><li>Workspace as a service</li><li>Project management tool</li></ul> | <ul><li>Leetcode</li><li>This page</li></ul> | <ul><li>3d art portfolio</li><li>TCP proxy</li><li>Projects templates</li></ul> |
 
 <!-- ## 📝 Sharing -->
 
