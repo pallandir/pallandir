@@ -25,6 +25,8 @@
 
 <a href="https://github.com/pallandir/github-readme-activity-graph"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1F222E&color=52B983&line=52B983&point=FFFFFF&hide_border=true" /></a>
 
+###### When there are no commits, I'm probably learning something new 🤭.
+
 ## 🎖️ GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=7)](https://github.com/pallandir/github-profile-trophy)
