@@ -1,15 +1,14 @@
 <section>
 <h3 align=center>A new and fresh place for personal projects</h3>
 <br/>
-<img align="right" src="./pre-render.png" />
-<br/>
+<img align="right" src="./dev_room.png"/>
 <br/>
 
 <div align="left">
- 
- 🔭 I’m currently working on **A workspace as a service and lot of other fun projects**
- 
- 🌱 I’m currently learning **Redis, Oauth2, k8s**
+
+🔭 I’m currently working on **A workspace as a service and lot of other fun projects**
+
+🌱 I’m currently learning **Redis, Oauth2, k8s**
 
 ⚡ Fun fact: **To avoid nullPointerException the best is to not import JAVA in your project**
 
@@ -58,15 +57,3 @@
 
 <br/>
 </section>
-
-<style>
-.statsContainer{
-    display:flex;
-    flex-direction:row;
-    width:100%
-}
-
-.cardMargin{
-    margin-right:8px
-}
-</style>
