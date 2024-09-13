@@ -19,9 +19,9 @@
 
 ## ⚙️ Technologies
 
-| I work with                                                                                                                                                                          |                      I'm proeficient with                      |                                                       I'm learning |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: | -----------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=vue,vuetify,pinia,html,css,javascript,typescript,vscode,github,figma,git,python,firebase,postgres,mysql,fastapi,gcp,aws,azure&perline=9" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker" /> | <img src="https://skillicons.dev/icons?i=golang,rust,terraform" /> |
+| I'm working with                                                                                                                                                           |                      I'm proeficient with                      |                                                                 I'm learning |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: | ---------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=vue,vuetify,pinia,html,css,javascript,typescript,vscode,github,figma,git,python,firebase,postgres,mysql,fastapi,gcp&perline=9" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker" /> | <img src="https://skillicons.dev/icons?i=golang,rust,terraform,aws,azure" /> |
 
 ## 🗂️ GitHub contributions
 
