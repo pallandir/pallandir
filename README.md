@@ -5,17 +5,19 @@
 
 <img align="right" src="./dev_room.png"/>
 
+###### Made with Blender ❤️.
+
 ## 🧪 Roadmap
 
-| Ongoing projects                                                         |              Currently updating              |                                                                   Next projects |
-| :----------------------------------------------------------------------- | :------------------------------------------: | ------------------------------------------------------------------------------: |
-| <ul><li>Workspace as a service</li><li>Project management tool</li></ul> | <ul><li>Leetcode</li><li>This page</li></ul> | <ul><li>3d art portfolio</li><li>TCP proxy</li><li>Projects templates</li></ul> |
+| Ongoing projects                                                                             |                       Currently updating                       |                                                                                              Next projects |
+| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------: |
+| <ul><li>Workspace as a service (private)</li><li>Project management tool (private)</li></ul> | <ul><li>Leetcode (public)</li><li>This page (public)</li></ul> | <ul><li>3d art portfolio (public)</li><li>TCP proxy (public)</li><li>Projects templates (public)</li></ul> |
 
 <!-- ## 📝 Sharing -->
 
 <!-- ### Tech news -->
 
-## ⚙️ Technologies & Tools
+## ⚙️ Technologies
 
 | I work with                                                                                                                                                                          |                      I'm proeficient with                      |                                                       I'm learning |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: | -----------------------------------------------------------------: |
@@ -27,7 +29,7 @@
 
 ###### When there are no commits, I'm probably learning something new 🤭.
 
-## 🎖️ GitHub Trophies
+## 🎖️ GitHub trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=7)](https://github.com/pallandir/github-profile-trophy)
 
