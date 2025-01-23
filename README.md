@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pallandir)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<img align="right" src="./dev_room.png"/>
+<img align="right" src="./room.png"/>
 
 ###### Made with Blender ❤️.
 
