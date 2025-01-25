@@ -11,7 +11,7 @@
 
 | Ongoing projects                                   |                                                                                                                 Currently updating                                                                                                                 |                                                                                                         Next projects |
 | :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------: |
-| <ul><li>Workspace as a service (private)</li></ul> | <ul><li><a href="https://github.com/pallandir/leetcode">Leetcode</a></li><li>This page</li><li><a href="https://github.com/pallandir/git_101">Git 101</a></li><li><a href="https://github.com/pallandir/system-design">System design</a></li></ul> | <ul><li>Personal portfolio (private)</li><li><a href="https://github.com/pallandir/books-api">Books api</a></li></ul> |
+| <ul><li>Workspace as a service (private)</li></ul> | <ul><li><a href="https://github.com/pallandir/leetcode">Leetcode</a></li><li>This page</li><li><a href="https://github.com/pallandir/git_101">Git 101</a></li><li><a href="https://github.com/pallandir/system-design">System design</a></li></ul> | <ul><li>Personal portfolio (private)</li></ul> |
 
 <!-- ## 📝 Sharing -->
 
