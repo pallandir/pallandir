@@ -1,10 +1,15 @@
-## Hey traveler✨
+# Hey traveler✨
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pallandir)
 
+## 😶‍🌫️ Who am I
+
 <img align="right" src="./room.png"/>
 
-###### Made with Blender ❤️.
+> Hello there! ☕✨.<br>
+> I'm **Pallandir**, a cloud software engineer ☁️💻. With a background in **cybersecurity** and experience in a **Cloud Center of Excellence**, I’ve spent the last five years coding, learning, and growing.
+>
+> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀
 
 ## 📈 Profile stats
 
@@ -16,8 +21,8 @@
 
 ## 🛠️ Tech Stack
 
-| I'm working with                                                                                                                                                                             |                                                                 I'm learning |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
+| I'm working with                                                                                                                                         |                                                                 I'm learning |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=vue,pinia,html,css,javascript,typescript,github,git,python,postgres,fastapi,gcp,kubernetes,docker&perline=9" /> | <img src="https://skillicons.dev/icons?i=golang,rust,terraform,aws,azure" /> |
 
 ## 🎖️ GitHub trophies
@@ -34,4 +39,6 @@
 
 <a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1F222E&color=52B983&line=52B983&point=FFFFFF&hide_border=true" /></a>
 
-###### When there are no commits, I'm probably working on other projects or learning something new 🤭.
+> ###### When there are no commits, I'm probably working on other projects or learning something new 🤭.
+
+###### 3d room Made with Blender ❤️.
