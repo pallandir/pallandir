@@ -19,7 +19,7 @@ Hello there! ☕✨.<br> I'm **Pallandir**, a cloud software engineer ☁️💻
 ## 📈 Profile stats
 
 <div style="display: flex; flex-direction: row;">
-  <img style="height: auto; width: 60%; margin-right:12px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=pallandir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img style="height: auto; width: 55%;" src="https://github-readme-stats-salesp07.vercel.app/api?username=pallandir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 <img style="height: auto; width: 40%;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pallandir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
