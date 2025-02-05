@@ -6,7 +6,7 @@
 
 ###### Made with Blender ❤️.
 
-## About Me 🙂
+## 🫣 About Me
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
 
