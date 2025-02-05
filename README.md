@@ -6,7 +6,7 @@
 
 ###### Made with Blender ❤️.
 
-## 🫣 About Me
+## 🫣 About me
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
 
@@ -24,7 +24,7 @@ Hello there! ☕✨.<br> I'm **Pallandir**, a cloud software engineer ☁️💻
 <img style="height: auto; width: 40%;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pallandir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 | I'm working with                                                                                                                                         |                                                                 I'm learning |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
