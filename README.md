@@ -10,7 +10,7 @@
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
 
-Hello there! ☕✨.<br> I'm **Pallandir**, a cloud software engineer ☁️💻. With a background in **cybersecurity** and experience in a **Cloud Center of Excellence**, I’ve spent the last five years coding, learning, and growing.
+Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
 
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀
 
