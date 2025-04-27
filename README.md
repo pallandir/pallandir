@@ -1,6 +1,6 @@
 # Hey traveler✨
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pallandir)
+<!---![visitors](https://visitor-badge.laobi.icu/badge?page_id=pallandir)-->
 
 <img align="right" src="./room.png"/>
 
