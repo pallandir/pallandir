@@ -1,10 +1,9 @@
 # Hey traveler✨
 
+<img src="./railroad.png"/>
 <div>
-<img align="right" src="./railroad.png"/>
-</div>
 
-<div>
+
 
 ## 🫣 About me
 
@@ -28,16 +27,17 @@ Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻
 
 ## 🛠️ Tech stack
 
-| I'm working with                                                                                                                                         |                                                                 I'm learning |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=vue,pinia,html,css,javascript,typescript,github,git,python,postgres,fastapi,gcp,kubernetes,docker&perline=9" /> | <img src="https://skillicons.dev/icons?i=golang,rust,terraform,aws,azure" /> |
 
-## 🎖️ GitHub trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ GitHub contributions
 
-<a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1F222E&color=52B983&line=52B983&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=24273a&color=cad3f5&line=cad3f5&point=FFFFFF&hide_border=true" /></a>
 
-> ###### When there are no commits, I'm probably working on other projects or learning something new 🤭.
+> When there are no commits, I'm probably working on other projects or learning something new 🤭.
+
+
+## 🎖️ GitHub trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
