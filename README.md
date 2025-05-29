@@ -15,9 +15,16 @@ Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻
 
 ## 📈 Profile stats
 
+<div style="display: flex; flex-direction: row;">
 <img src="https://github-readme-stats.vercel.app/api?username=pallandir&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview"> -->
+<div style="display: flex; flex-direction: column; margin-left:5px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
+</div>
+</div>
+
+
 
 <!-- <div style="display: flex; flex-direction: row;">
   <img style="height: auto; width: 55%; margin-right:8px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=pallandir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
