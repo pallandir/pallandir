@@ -1,27 +1,29 @@
 # Hey traveler✨
 
-<!---![visitors](https://visitor-badge.laobi.icu/badge?page_id=pallandir)-->
+<div>
+<img align="right" src="./railroad.png"/>
+</div>
 
-<img align="right" src="./room.png"/>
-
-###### Made with Blender ❤️.
+<div>
 
 ## 🫣 About me
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
-
 Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
 
-> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀
+> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 (created on 2024)
 
 </div>
 
 ## 📈 Profile stats
 
-<div style="display: flex; flex-direction: row;">
-  <img style="height: auto; width: 55%; margin-right:8px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=pallandir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pallandir&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
 
-<img style="height: auto; width: 40%;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pallandir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
+
+<div style="display: flex; flex-direction: row;">
+  <!-- <img style="height: auto; width: 55%; margin-right:8px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=pallandir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+<!-- 
+<img style="height: auto; width: 40%;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pallandir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
 ## 🛠️ Tech stack
@@ -33,12 +35,6 @@ Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻
 ## 🎖️ GitHub trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🧪 Roadmap
-
-| Ongoing projects                                   |                                                                                                                 Currently updating                                                                                                                 |                                  Next projects |
-| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------: |
-| <ul><li>Workspace as a service (private)</li></ul> | <ul><li><a href="https://github.com/pallandir/leetcode">Leetcode</a></li><li>This page</li><li><a href="https://github.com/pallandir/git_101">Git 101</a></li><li><a href="https://github.com/pallandir/system-design">System design</a></li></ul> | <ul><li>Personal portfolio (private)</li></ul> |
 
 ## 🗂️ GitHub contributions
 
