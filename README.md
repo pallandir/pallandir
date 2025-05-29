@@ -18,9 +18,9 @@ Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻
 <div style="display: flex; flex-direction: row;">
 <img src="https://github-readme-stats.vercel.app/api?username=pallandir&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
 
-<div style="display: flex; flex-direction: column; margin-left:5px;">
+<div style="display: flex; flex-direction: column">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=git-primer&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pallandir&repo=leetcode&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Repo Preview">
 </div>
 </div>
 
