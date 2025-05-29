@@ -1,19 +1,19 @@
-# Hey traveler✨
+# Hello there! ✨.
 
 <img src="./railroad.png"/>
 <div>
 
 
 
-## 🫣 About me
+## 🧭 About me
 
-Hello there! ☕✨.<br> I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
+I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
 
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 (created on 2024)
 
 </div>
 
-## 📈 Profile stats
+## 📊 Profile stats
 
 <div style="display: flex; flex-direction: row;">
 <img src="https://github-readme-stats.vercel.app/api?username=pallandir&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
