@@ -26,13 +26,12 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 ## ![cat excited ](./assets/cat_excited.gif) Tech stack
 
 <a href="#">
- <img align="left" hspace="10"  src="https://github-readme-tech-stack.vercel.app/api/cards?title=Pallandir%27s+tech+stack&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cdd6f4&titleColor=%2394e2d5&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3B%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack" />
+ <img align="left" hspace="20"  src="https://github-readme-tech-stack.vercel.app/api/cards?title=Pallandir%27s+tech+stack&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cdd6f4&titleColor=%2394e2d5&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3B%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack" />
 </a>
 <p>
   I started as a full-stack engineer three years ago, with a strong emphasis on UI design 🎨 and user experience ✨. These days, I'm shifting my focus toward backend development ⚙️, system design 🧠, and building high-quality software 🚀.
 </p>
 
-<br/>
 
 ## 🗂️ GitHub contributions ![cat sleep](./assets/cat_sleep.gif)
 
