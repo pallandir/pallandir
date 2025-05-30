@@ -1,6 +1,6 @@
-# Hello there! ✨.
+# Hello there! ![cat](./assets/cat.gif).
 
-<img src="./railroad.png"/>
+<img src="./assets/railroad.png"/>
 <div>
 
 
@@ -29,7 +29,7 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 
 ## 🗂️ GitHub contributions
 
-<a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5" /></a>
+<a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true" /></a>
 
 > When there are no commits, I'm probably working on other projects or learning something new 🤭.
 
