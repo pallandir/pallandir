@@ -17,8 +17,9 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&card_width=320" />
 </a>
