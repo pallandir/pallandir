@@ -32,7 +32,7 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
   I started as a full-stack engineer three years ago, with a strong emphasis on UI design and user experience. These days, I'm shifting my focus toward backend development, system design, and building high-quality software.
 </p>
 
-
+<br/>
 
 ## 🗂️ GitHub contributions ![cat sleep](./assets/cat_sleep.gif)
 
