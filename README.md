@@ -45,7 +45,7 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=4&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
