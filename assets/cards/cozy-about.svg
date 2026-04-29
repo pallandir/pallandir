@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Cozy night sky with cabin">
+  <defs>
+    <linearGradient id="sky-a" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#181825"/>
+      <stop offset="55%" stop-color="#1e1e2e"/>
+      <stop offset="100%" stop-color="#313244"/>
+    </linearGradient>
+    <radialGradient id="moonglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f9e2af" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#f9e2af" stop-opacity="0.0"/>
+    </radialGradient>
+    <clipPath id="round-a"><rect width="800" height="500" rx="24" ry="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round-a)">
+    <rect width="800" height="500" fill="url(#sky-a)"/>
+    <circle cx="640" cy="120" r="120" fill="url(#moonglow)"/>
+    <circle cx="640" cy="120" r="38" fill="#f9e2af">
+      <animate attributeName="opacity" values="0.92;1;0.92" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="628" cy="112" r="32" fill="#1e1e2e"/>
+    <g fill="#cdd6f4">
+      <circle cx="60" cy="70" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="130" cy="40" r="1.1"><animate attributeName="opacity" values="1;0.3;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="210" cy="90" r="1.6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="290" cy="50" r="1.2"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="360" cy="110" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="450" cy="70" r="1.0"><animate attributeName="opacity" values="1;0.2;1" dur="2.0s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="40" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="730" cy="60" r="1.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="180" r="1.1"><animate attributeName="opacity" values="1;0.4;1" dur="3.0s" repeatCount="indefinite"/></circle>
+      <circle cx="40" cy="200" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="170" cy="230" r="1.0"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
+      <circle cx="500" cy="160" r="1.0"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="580" cy="220" r="0.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    </g>
+    <polygon points="0,360 130,250 240,310 360,230 470,300 600,240 720,300 800,270 800,500 0,500" fill="#181825"/>
+    <polygon points="0,500 90,400 200,440 320,390 460,430 580,390 700,430 800,410 800,500" fill="#11111b"/>
+    <g transform="translate(360,330)">
+      <rect x="0" y="20" width="80" height="60" fill="#181825"/>
+      <polygon points="-8,20 40,-12 88,20" fill="#11111b"/>
+      <rect x="20" y="40" width="16" height="18" fill="#fab387">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="3.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="48" y="40" width="16" height="18" fill="#fab387">
+        <animate attributeName="opacity" values="1;0.7;1" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="55" y="62" width="10" height="18" fill="#11111b"/>
+      <rect x="38" y="-30" width="6" height="18" fill="#181825"/>
+      <g opacity="0.55">
+        <ellipse cx="41" cy="-36" rx="6" ry="3" fill="#cdd6f4">
+          <animate attributeName="cy" values="-36;-44;-36" dur="4.5s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.55;0.15;0.55" dur="4.5s" repeatCount="indefinite"/>
+        </ellipse>
+      </g>
+    </g>
+    <g fill="#11111b">
+      <rect x="120" y="430" width="6" height="14"/>
+      <rect x="125" y="426" width="3" height="6"/>
+      <rect x="118" y="426" width="3" height="6"/>
+      <rect x="240" y="420" width="6" height="20"/>
+      <rect x="245" y="416" width="3" height="6"/>
+      <rect x="237" y="416" width="3" height="6"/>
+      <rect x="660" y="425" width="6" height="18"/>
+      <rect x="665" y="421" width="3" height="6"/>
+      <rect x="657" y="421" width="3" height="6"/>
+    </g>
+  </g>
+</svg>
