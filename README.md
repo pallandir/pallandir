@@ -46,7 +46,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 <tr>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/cafe.jpg" alt="cafe postcard" width="100%"/>
+<img src="./assets/cafe.jpg" alt="Illustrated cafe drinks postcard" width="100%"/>
 
 </td>
 <td width="55%" valign="top">
@@ -80,7 +80,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/door.jpg" alt="Cozy lake at dusk scene" width="100%"/>
+<img src="./assets/fuji.jpg" alt="Mount Fuji and sakura illustration" width="100%"/>
 
 </td>
 </tr>
@@ -102,6 +102,10 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <br/>
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ## <img src="./assets/cat_surprised.gif" height="28" align="center"/> Featured projects
 
 <a href="https://github.com/pallandir/pymojis">
@@ -112,7 +116,25 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
   <img src="./assets/cards/manifesto.svg" alt="manifesto" width="100%"/>
 </a>
 
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="./assets/sakura.jpg" alt="Sakura branch and red sun" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
+
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+
+<img src="./assets/coffee-shop.jpg" alt="Illustrated coffee shop scene" width="100%"/>
+
+</td>
+<td width="55%" valign="top">
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
 
@@ -123,6 +145,10 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 <sub>📝 No articles yet — follow me on <a href="https://dev.to/pallandir">dev.to</a> to be notified when the first one drops.</sub>
 
 <!-- BLOG-POST-LIST:END -->
+
+</td>
+</tr>
+</table>
 
 <br/>
 
