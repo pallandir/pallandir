@@ -46,7 +46,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 <tr>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/cards/cozy-tech.svg" alt="Cozy mountain workshop scene" width="100%"/>
+<img src="./assets/cafe.jpg" alt="cafe postcard" width="100%"/>
 
 </td>
 <td width="55%" valign="top">
