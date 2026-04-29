@@ -1,12 +1,9 @@
 name: Latest dev.to articles
 
+# Disabled: automatic triggers removed to stop failing runs.
+# Re-enable by restoring the `schedule` and `push` triggers below.
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
