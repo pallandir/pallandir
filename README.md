@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/railroad-min.png" alt="banner" width="100%"/>
+<img src="./assets/banner.jpg" alt="banner" width="100%"/>
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
-> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 *(created on 2024)*
+> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
 
 Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
 
@@ -80,7 +80,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/cards/cozy-stats.svg" alt="Cozy lake at dusk scene" width="100%"/>
+<img src="./assets/door.jpg" alt="Cozy lake at dusk scene" width="100%"/>
 
 </td>
 </tr>
@@ -119,7 +119,9 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 I'm starting to write on **dev.to** — articles will appear here automatically.
 
 <!-- BLOG-POST-LIST:START -->
+
 <sub>📝 No articles yet — follow me on <a href="https://dev.to/pallandir">dev.to</a> to be notified when the first one drops.</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
