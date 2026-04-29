@@ -104,22 +104,13 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_surprised.gif" height="28" align="center"/> Featured projects
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/pallandir/pymojis">
-    <img src="./assets/cards/pymojis.svg" alt="pymojis" width="100%"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="#">
-    <img src="./assets/cards/manifesto.svg" alt="manifesto" width="100%"/>
-  </a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/pallandir/pymojis">
+  <img src="./assets/cards/pymojis.svg" alt="pymojis" width="100%"/>
+</a>
 
-<sub>✨ Two more projects coming soon.</sub>
+<a href="#">
+  <img src="./assets/cards/manifesto.svg" alt="manifesto" width="100%"/>
+</a>
 
 <br/>
 
@@ -137,7 +128,7 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=matrix&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pallandir&theme=nord&column=4&margin-w=12&margin-h=12&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
