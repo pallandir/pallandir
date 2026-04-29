@@ -19,7 +19,7 @@
 
 <br/>
 
-## <img src="./assets/cat.gif" height="28" align="center"/> About me
+### <img src="./assets/cat.gif" height="28" align="center"/> &nbsp; About me
 
 <img align="right" src="./assets/cards/cozy-about.svg" alt="Cozy night sky scene" width="42%"/>
 
@@ -33,7 +33,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <br/>
 
-## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
+### <img src="./assets/cat_excited.gif" height="28" align="center"/> &nbsp; Tech stack
 
 <img align="left" src="./assets/cards/cozy-tech.svg" alt="Cozy mountain workshop scene" width="42%"/>
 
@@ -47,7 +47,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <br/>
 
-## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
+### <img src="./assets/cat_laying.gif" height="28" align="center"/> &nbsp; Profile stats
 
 <img align="right" src="./assets/door.jpg" alt="Cozy lake at dusk scene" width="38%"/>
 
