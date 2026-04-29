@@ -44,12 +44,12 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <table>
 <tr>
-<td width="45%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-<img src="./assets/cafe.jpg" alt="Illustrated cafe drinks postcard" width="100%"/>
+<img src="./assets/tech-room.png" alt="Cyberpunk dev workstation with sakura screens" width="100%"/>
 
 </td>
-<td width="55%" valign="top">
+<td width="60%" valign="middle">
 
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
 
@@ -113,15 +113,17 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 </a>
 
 <br/>
+<br/>
+<br/>
 
 <table>
 <tr>
-<td width="45%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-<img src="./assets/articles.jpg" alt="Reading the newspaper at a winter cafe" width="100%"/>
+<img src="./assets/dev-room.png" alt="Anime cyberpunk bedroom with neon city view" width="100%"/>
 
 </td>
-<td width="55%" valign="top">
+<td width="60%" valign="middle">
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
 
@@ -150,6 +152,8 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=100&section=footer&reversal=true" alt="" width="100%"/>
+  <img src="./assets/skyline.png" alt="Cyberpunk Tokyo skyline at night" width="100%"/>
+  <br/>
+  <br/>
   <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;Crafted with care · Catppuccin Mocha · Singapore 🇸🇬</sub>
 </div>
