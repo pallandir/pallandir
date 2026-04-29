@@ -19,9 +19,9 @@
 
 <br/>
 
-<img align="right" src="./assets/cards/cozy-about.svg" alt="Cozy night sky scene" width="42%"/>
-
 ## <img src="./assets/cat.gif" height="28" align="center"/> About me
+
+<img align="right" src="./assets/cards/cozy-about.svg" alt="Cozy night sky scene" width="42%"/>
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
@@ -33,9 +33,9 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <br/>
 
-<img align="left" src="./assets/cards/cozy-tech.svg" alt="Cozy mountain workshop scene" width="42%"/>
-
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
+
+<img align="left" src="./assets/cards/cozy-tech.svg" alt="Cozy mountain workshop scene" width="42%"/>
 
 I started as a **full-stack engineer** three years ago, with a strong emphasis on UI design 🎨 and user experience ✨. These days, I'm focused on **backend development** ⚙️, system design 🧠, and building reliable software 🚀.
 
@@ -47,9 +47,9 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <br/>
 
-<img align="right" src="./assets/door.jpg" alt="Cozy lake at dusk scene" width="38%"/>
-
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
+
+<img align="right" src="./assets/door.jpg" alt="Cozy lake at dusk scene" width="38%"/>
 
 <img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="60%"/>
 
