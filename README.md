@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="banner" width="100%"/>
+<img src="./assets/banner.png" alt="banner" width="100%"/>
 
 <br/>
 
@@ -80,7 +80,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/fuji.jpg" alt="Mount Fuji and sakura illustration" width="100%"/>
+<img src="./assets/sakura.jpg" alt="Sakura branch and red sun" width="100%"/>
 
 </td>
 </tr>
@@ -102,10 +102,6 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ## <img src="./assets/cat_surprised.gif" height="28" align="center"/> Featured projects
 
 <a href="https://github.com/pallandir/pymojis">
@@ -116,22 +112,13 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
   <img src="./assets/cards/manifesto.svg" alt="manifesto" width="100%"/>
 </a>
 
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="./assets/sakura.jpg" alt="Sakura branch and red sun" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/coffee-shop.jpg" alt="Illustrated coffee shop scene" width="100%"/>
+<img src="./assets/articles.jpg" alt="Reading the newspaper at a winter cafe" width="100%"/>
 
 </td>
 <td width="55%" valign="top">
