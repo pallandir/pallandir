@@ -34,7 +34,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./assets/cards/cozy-about.svg" alt="Cozy night sky scene" width="100%"/>
+<img src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="100%"/>
 
 </td>
 </tr>
@@ -44,12 +44,12 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <table>
 <tr>
-<td width="40%" valign="middle" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="./assets/tech-room.png" alt="Cyberpunk dev workstation with sakura screens" width="100%"/>
+<img src="./assets/cafe.jpg" alt="Illustrated cafe drinks postcard" width="100%"/>
 
 </td>
-<td width="60%" valign="middle">
+<td width="55%" valign="middle">
 
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
 
@@ -152,7 +152,7 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 <br/>
 
 <div align="center">
-  <img src="./assets/skyline.png" alt="Cyberpunk Tokyo skyline at night" width="100%"/>
+  <img src="./assets/singapore.png" alt="Illustrated futuristic Singapore street" width="100%"/>
   <br/>
   <br/>
   <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;Crafted with care · Catppuccin Mocha · Singapore 🇸🇬</sub>
