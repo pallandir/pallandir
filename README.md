@@ -21,9 +21,7 @@
 
 ## <img src="./assets/cat.gif" height="28" align="center"/> About me
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
@@ -31,18 +29,9 @@ I'm Pallandir, a **backend software engineer** ☁️💻 with a background in *
 
 Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
 
-<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random dev quote" width="58%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random dev quote" width="100%"/>
-
-</td>
-<td valign="top" width="42%">
-
-<img src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <br/>
 
@@ -66,20 +55,13 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" src="./assets/sakura.png" alt="Sakura branch and red sun" width="38%"/>
 
-<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="100%"/><img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="100%"/><img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="100%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="58%"/>
+<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="58%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="58%"/>
 
-</td>
-<td valign="top" width="40%">
-
-<img src="./assets/sakura.png" alt="Sakura branch and red sun" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <br/>
 
@@ -106,7 +88,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
 
-<img align="left" src="./assets/dev-room.png" alt="Anime cyberpunk bedroom with neon city view" width="38%"/>
+<img align="left" src="./assets/dev-room.png" alt="Coder workspace with backlit keyboard and code on monitor" width="38%"/>
 
 <div align="center">
 
@@ -135,7 +117,7 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 <br/>
 
 <div align="center">
-  <img src="./assets/singapore.png" alt="Illustrated futuristic Singapore street" width="100%"/>
+  <img src="./assets/singapore.png" alt="Singapore Marina Bay skyline at twilight" width="100%"/>
   <br/>
   <br/>
   <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;Crafted with care · Catppuccin Mocha · Singapore 🇸🇬</sub>
