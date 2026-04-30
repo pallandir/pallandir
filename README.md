@@ -69,6 +69,9 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 </td>
 <td width="40%" valign="top">
+
+&nbsp;
+
 <img src="./assets/sakura.png" alt="Sakura branch and red sun" height="100%"/>
 </td>
 </tr>
