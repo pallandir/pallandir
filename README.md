@@ -41,12 +41,12 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <img align="left" src="./assets/tech-stack-small.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
 
+&nbsp;
+
 <div align="center">
-&nbsp;
-&nbsp;
 I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper — clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
 
-<br/>
+&nbsp;
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&hideTitle=true&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cba6f7&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack"/>
 
