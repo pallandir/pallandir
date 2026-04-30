@@ -24,7 +24,7 @@
 <img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
 
 &nbsp;
-&nbsp;
+
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
