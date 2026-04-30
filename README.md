@@ -19,11 +19,11 @@
 
 <br/>
 
-<table border="1" bordercolor="#FF5733">
-<tr>
-<td width="55%" valign="top">
-
 ## <img src="./assets/cat.gif" height="28" align="center"/> About me
+
+<img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
+
+<div align="center">
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
@@ -31,27 +31,17 @@ I'm Pallandir, a **backend software engineer** ☁️💻 with a background in *
 
 Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
 
-</td>
-<td width="45%" valign="top" align="center">
+</div>
 
-<img src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <br/>
 
-<table>
-<tr>
-<td width="45%" valign="middle" align="center">
-
-<img src="./assets/cafe.jpg" alt="Illustrated cafe drinks postcard" width="100%"/>
-
-</td>
-<td width="55%" valign="middle">
-
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
+
+<img align="left" src="./assets/cafe.png" alt="Illustrated cafe drinks postcard" width="38%"/>
+
+<div align="center">
 
 I started as a **full-stack engineer** three years ago, with a strong emphasis on UI design 🎨 and user experience ✨. These days, I'm focused on **backend development** ⚙️, system design 🧠, and building reliable software 🚀.
 
@@ -59,32 +49,23 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&hideTitle=true&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cba6f7&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="all"/>
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
 
-<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="100%"/>
+<img align="right" src="./assets/sakura.png" alt="Sakura branch and red sun" width="38%"/>
 
-<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="100%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="60%"/>
 
-<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="60%"/>
 
-</td>
-<td width="45%" valign="top" align="center">
+<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="60%"/>
 
-<img src="./assets/sakura.jpg" alt="Sakura branch and red sun" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <br/>
 
@@ -114,18 +95,12 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 <br/>
 <br/>
-<br/>
-
-<table>
-<tr>
-<td width="40%" valign="middle" align="center">
-
-<img src="./assets/dev-room.png" alt="Anime cyberpunk bedroom with neon city view" width="100%"/>
-
-</td>
-<td width="60%" valign="middle">
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
+
+<img align="left" src="./assets/dev-room.png" alt="Anime cyberpunk bedroom with neon city view" width="38%"/>
+
+<div align="center">
 
 I'm starting to write on **dev.to** — articles will appear here automatically.
 
@@ -135,9 +110,9 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 
 <!-- BLOG-POST-LIST:END -->
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="all"/>
 
 <br/>
 
