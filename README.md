@@ -41,7 +41,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <div align="center">
 
-I started as a **full-stack engineer** three years ago, with a strong emphasis on UI design 🎨 and user experience ✨. These days, I'm focused on **backend development** ⚙️, system design 🧠, and building reliable software 🚀.
+I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper — clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
 
 <br/>
 
@@ -102,7 +102,7 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
 
-<img align="left" src="./assets/dev-room.png" alt="Coder workspace with backlit keyboard and code on monitor" width="38%"/>
+<img align="left" src="./assets/articles.png" alt="Illustrated cozy room at night, neon city window, cat on the bed" width="38%"/>
 
 <div align="center">
 
@@ -131,7 +131,7 @@ I'm starting to write on **dev.to** — articles will appear here automatically.
 <br/>
 
 <div align="center">
-  <img src="./assets/singapore.png" alt="Singapore Marina Bay skyline at twilight" width="100%"/>
+  <img src="./assets/skyline.jpg" alt="Illustrated cyberpunk skyline at night, neon reflections on water" width="100%"/>
   <br/>
   <br/>
   <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;Crafted with care · Catppuccin Mocha · Singapore 🇸🇬</sub>
