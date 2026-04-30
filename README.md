@@ -23,6 +23,8 @@
 
 <img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
 
+&nbsp;
+&nbsp;
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
@@ -37,10 +39,11 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
 
-<img align="left" src="./assets/tech-stack.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
+<img align="left" src="./assets/tech-stack-small.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
 
 <div align="center">
-
+&nbsp;
+&nbsp;
 I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper — clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
 
 <br/>
