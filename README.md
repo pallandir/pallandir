@@ -25,8 +25,6 @@
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
-&nbsp;
-
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
 
 Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
