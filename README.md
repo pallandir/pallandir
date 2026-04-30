@@ -31,6 +31,15 @@ I'm Pallandir, a **backend software engineer** ☁️💻 with a background in *
 
 Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random dev quote" width="85%"/>
+
+<br/>
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=catppuccin_mocha&hideBorder=true" alt="Random programming joke" width="85%"/>
+
 </div>
 
 <br clear="all"/>
@@ -57,13 +66,11 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
 
-<img align="right" src="./assets/sakura.png" alt="Sakura branch and red sun" width="38%"/>
+<img align="right" src="./assets/sakura.png" alt="Sakura branch and red sun" width="35%"/>
 
-<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="60%"/>
-
-<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="60%"/>
-
-<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="60%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="55%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="55%"/>
 
 <br clear="all"/>
 
