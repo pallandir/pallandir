@@ -45,6 +45,8 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 &nbsp;
 
+&nbsp;
+
 <div align="center">
 I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper — clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
 
