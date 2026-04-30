@@ -19,7 +19,7 @@
 
 <br/>
 
-<table color="white">
+<table border="1" bordercolor="#FF5733">
 <tr>
 <td width="55%" valign="top">
 
