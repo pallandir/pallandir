@@ -21,9 +21,9 @@
 
 ## <img src="./assets/cat.gif" height="28" align="center"/> About me
 
-<img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
-
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="58%">
 
 I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
 
@@ -33,16 +33,16 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random dev quote" width="85%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random dev quote" width="100%"/>
 
-<br/>
-<br/>
+</td>
+<td valign="top" width="42%">
 
-<img src="https://readme-jokes.vercel.app/api?theme=catppuccin_mocha&hideBorder=true" alt="Random programming joke" width="85%"/>
+<img src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="100%"/>
 
-</div>
-
-<br clear="all"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -66,25 +66,26 @@ I started as a **full-stack engineer** three years ago, with a strong emphasis o
 
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
 
-<img align="right" src="./assets/sakura.png" alt="Sakura branch and red sun" width="35%"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="55%"/>
-<img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="55%"/>
-<img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="55%"/>
+<img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="100%"/><img src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="100%"/><img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles&hide_border=true&bg_color=1e1e2e" alt="Top languages" width="100%"/>
 
-<br clear="all"/>
+</td>
+<td valign="top" width="40%">
+
+<img src="./assets/sakura.png" alt="Sakura branch and red sun" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## <img src="./assets/cat_sleep.gif" height="28" align="center"/> GitHub contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true&hide_border=true&area_color=cba6f7" alt="Pallandir contributions" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallandir/pallandir/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallandir/pallandir/output/snake.svg"/>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/pallandir/pallandir/output/snake.svg" width="100%"/>
-</picture>
 
 > When there are no commits, I'm probably working on other projects or learning something new 🤭.
 
