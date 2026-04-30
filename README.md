@@ -37,7 +37,7 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 
 ## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
 
-<img align="left" src="./assets/cafe.png" alt="Illustrated cafe drinks postcard" width="38%"/>
+<img align="left" src="./assets/tech-stack.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
 
 <div align="center">
 
