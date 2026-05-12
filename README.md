@@ -5,7 +5,7 @@
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=CBA6F7&center=true&vCenter=true&width=620&lines=Hello+there+%F0%9F%91%8B;Backend+software+engineer;Cloud+Center+of+Excellence+%E2%98%81%EF%B8%8F;Singapore+%F0%9F%87%B8%F0%9F%87%AC;Five+years+coding+%C2%B7+learning+%C2%B7+growing" alt="Pallandir typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=CBA6F7&center=true&vCenter=true&width=620&lines=hi%2C+I%27m+Pallandir+%F0%9F%91%8B;mostly+a+backend+engineer;working+in+a+Cloud+Center+of+Excellence+%E2%98%81%EF%B8%8F;writing+this+from+Singapore+%F0%9F%87%B8%F0%9F%87%AC;five+years+in%2C+still+figuring+it+out" alt="Pallandir typing intro"/>
 </a>
 
 <br/>
@@ -27,11 +27,11 @@
 
 &nbsp;
 
-I'm Pallandir, a **backend software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I've spent the last five years coding, learning, and growing.
+Hey, I'm Pallandir. I do <b>backend</b> stuff ☁️💻 these days. I started out in <b>cybersecurity</b>, then ended up in a <b>Cloud Center of Excellence</b>, which is a fancy name for the team that gets pulled into the messy cloud questions. Been writing code for around five years.
 
-> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
+> I opened this GitHub in 2024 to start over with a clean slate. It's where I keep the things I'm actually proud of, or trying to be. 🚀
 
-Based in **Singapore** 🇸🇬, currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
+I live in <b>Singapore</b> 🇸🇬. Used to do full-stack, but lately I keep getting pulled toward the <b>backend</b> side, <b>system design</b>, and just trying to write software that still makes sense six months later.
 
 <br/>
 
@@ -48,7 +48,8 @@ Based in **Singapore** 🇸🇬, currently shifting from full-stack toward **bac
 &nbsp;
 
 <div align="center">
-I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper, clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
+
+My first real job was <b>full-stack</b>, about three years ago. I spent a lot of time fussing over how things looked 🎨 and felt to use ✨, and honestly I still care about that. But the part I keep coming back to is what's underneath, the APIs ⚙️, how the pieces actually fit together 🧠, the boring plumbing that everything else quietly depends on 🚀.
 
 &nbsp;
 
@@ -89,7 +90,7 @@ I started as a **full-stack engineer** three years ago, leaning into UI design �
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true&hide_border=true&area_color=cba6f7" alt="Pallandir contributions" width="100%"/>
 
-> When there are no commits, I'm probably working on other projects or learning something new 🤭.
+> Quiet weeks usually mean I'm poking at something private, or just reading 🤭.
 
 <br/>
 
@@ -114,11 +115,11 @@ I started as a **full-stack engineer** three years ago, leaning into UI design �
 
 <div align="center">
 
-I'm starting to write on **dev.to**, articles will appear here automatically.
+I'm trying to write a bit on <b>dev.to</b>. Whenever I post something, it should pop up here on its own.
 
 <!-- BLOG-POST-LIST:START -->
 
-<sub>📝 No articles yet — follow me on <a href="https://dev.to/pallandir">dev.to</a> to be notified when the first one drops.</sub>
+<sub>📝 Nothing posted yet. If you want to catch the first one, you can follow me on <a href="https://dev.to/pallandir">dev.to</a>.</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -142,5 +143,5 @@ I'm starting to write on **dev.to**, articles will appear here automatically.
   <img src="./assets/skyline.jpg" alt="Illustrated cyberpunk skyline at night, neon reflections on water" width="100%"/>
   <br/>
   <br/>
-  <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;Crafted with care · Catppuccin Mocha · Singapore 🇸🇬</sub>
+  <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;put together slowly, on quiet evenings · Catppuccin Mocha · Singapore 🇸🇬</sub>
 </div>
