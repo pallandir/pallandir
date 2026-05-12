@@ -64,10 +64,8 @@ My first real job was <b>full-stack</b>, about three years ago. I spent a lot of
 
 ## <img src="./assets/cat_laying.gif" height="28" align="center"/> Profile stats
 
-<img align="left" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="49%"/>
+<img align="left" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e" alt="Pallandir's stats" width="45%"/>
 <img align="right" src="https://streak-stats.demolab.com?user=pallandir&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&date_format=j%20M%5B%20Y%5D" alt="Pallandir's streak" width="49%"/>
-
-<br clear="all"/>
 
 <br/>
 
