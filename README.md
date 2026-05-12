@@ -21,11 +21,11 @@
 
 ## <img src="./assets/cat.gif" height="28" align="center"/> About me
 
-<div align="center">
-<img src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" height="240"/>
-</div>
+<img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
 
-<br/>
+&nbsp;
+
+&nbsp;
 
 Hey, I'm Pallandir. I do <b>backend</b> stuff ☁️💻 these days. I started out in <b>cybersecurity</b>, then ended up in a <b>Cloud Center of Excellence</b>, which is a fancy name for the team that gets pulled into the messy cloud questions. Been writing code for around five years.
 
@@ -35,23 +35,30 @@ I live in <b>Singapore</b> 🇸🇬. Used to do full-stack, but lately I keep ge
 
 <br/>
 
-## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
-
-<div align="center">
-<img src="./assets/tech-stack-small.jpg" alt="Illustrated cafe drinks postcard" height="240"/>
-</div>
+<br clear="all"/>
 
 <br/>
+
+## <img src="./assets/cat_excited.gif" height="28" align="center"/> Tech stack
+
+<img align="left" src="./assets/tech-stack-small.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
+
+&nbsp;
+
+&nbsp;
 
 <div align="center">
 
 My first real job was <b>full-stack</b>, about three years ago. I spent a lot of time fussing over how things looked 🎨 and felt to use ✨, and honestly I still care about that. But the part I keep coming back to is what's underneath, the APIs ⚙️, how the pieces actually fit together 🧠, the boring plumbing that everything else quietly depends on 🚀.
 
-<br/>
+&nbsp;
 
+&nbsp;
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&hideTitle=true&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cba6f7&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack"/>
 
 </div>
+
+<br clear="all"/>
 
 <br/>
 
@@ -88,11 +95,7 @@ My first real job was <b>full-stack</b>, about three years ago. I spent a lot of
 
 ## <img src="./assets/cat_eating.gif" height="28" align="center"/> Latest articles
 
-<div align="center">
-<img src="./assets/articles.png" alt="Illustrated cozy room at night, neon city window, cat on the bed" height="240"/>
-</div>
-
-<br/>
+<img align="left" src="./assets/articles.png" alt="Illustrated cozy room at night, neon city window, cat on the bed" width="38%"/>
 
 <div align="center">
 
@@ -105,6 +108,8 @@ I'm trying to write a bit on <b>dev.to</b>. Whenever I post something, it should
 <!-- BLOG-POST-LIST:END -->
 
 </div>
+
+<br clear="all"/>
 
 <br/>
 
