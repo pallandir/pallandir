@@ -31,7 +31,7 @@ I'm Pallandir, a **backend software engineer** ☁️💻 with a background in *
 
 > This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀 _(created on 2024)_
 
-Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
+Based in **Singapore** 🇸🇬, currently shifting from full-stack toward **backend development**, **system design**, and building **high-quality software**.
 
 <br/>
 
@@ -48,10 +48,11 @@ Based in **Singapore** 🇸🇬 — currently shifting from full-stack toward **
 &nbsp;
 
 <div align="center">
-I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper — clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
+I started as a **full-stack engineer** three years ago, leaning into UI design 🎨 and user experience ✨ along the way. The work I love most now sits a layer deeper, clean APIs ⚙️, thoughtful **system design** 🧠, and software built to last 🚀.
 
 &nbsp;
 
+&nbsp;
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&hideTitle=true&lineCount=2&bg=%231e1e2e&badge=%23cdd6f4&border=%23cba6f7&line1=python%2CPython%2C1e1e2e%3Bvue.js%2CVue.js%2C1e1e2e%3BOpenTofu%2COpenTofu%2C1e1e2e%3BRust%2CRust%2C1e1e2e%3B&line2=Go%2CGolang%2C1e1e2e%3BAWS%2CAWS%2C1e1e2e%3BGCP%2CGCP%2C1e1e2e%3Bvim%2CVim%2C1e1e2e%3Blinux%2CLinux%2C1e1e2e%3B" alt="Pallandir's tech stack"/>
 
 </div>
@@ -113,7 +114,7 @@ I started as a **full-stack engineer** three years ago, leaning into UI design �
 
 <div align="center">
 
-I'm starting to write on **dev.to** — articles will appear here automatically.
+I'm starting to write on **dev.to**, articles will appear here automatically.
 
 <!-- BLOG-POST-LIST:START -->
 
