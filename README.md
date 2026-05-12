@@ -140,8 +140,5 @@ I'm trying to write a bit on <b>dev.to</b>. Whenever I post something, it should
 <br/>
 
 <div align="center">
-  <img src="./assets/skyline.jpg" alt="Illustrated cyberpunk skyline at night, neon reflections on water" width="100%"/>
-  <br/>
-  <br/>
   <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;put together slowly, on quiet evenings · Catppuccin Mocha · Singapore 🇸🇬</sub>
 </div>
