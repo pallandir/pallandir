@@ -115,7 +115,3 @@ I'm trying to write a bit on <b>dev.to</b>. Whenever I post something, it should
 </div>
 
 <br/>
-
-<div align="center">
-  <sub><img src="./assets/cat_sleepy.gif" height="20" align="center"/> &nbsp;put together slowly, on quiet evenings · Catppuccin Mocha · Singapore 🇸🇬</sub>
-</div>
