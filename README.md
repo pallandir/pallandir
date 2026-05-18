@@ -5,14 +5,13 @@
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=CBA6F7&center=true&vCenter=true&width=620&lines=hi%2C+I%27m+Pallandir+%F0%9F%91%8B;mostly+a+backend+engineer;working+in+a+Cloud+Center+of+Excellence+%E2%98%81%EF%B8%8F;writing+this+from+Singapore+%F0%9F%87%B8%F0%9F%87%AC;five+years+in%2C+still+figuring+it+out" alt="Pallandir typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=CBA6F7&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Pallandir+%F0%9F%91%8B;Backend+engineer;Working+in+a+Cloud+Center+of+Excellence+%E2%98%81%EF%B8%8F;Five+years+in" alt="Pallandir typing intro"/>
 </a>
 
 <br/>
 
 <a href="mailto:pallandir2@gmail.com"><img src="https://img.shields.io/badge/email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=cba6f7&labelColor=1e1e2e" alt="Email"/></a>
 <a href="https://dev.to/pallandir"><img src="https://img.shields.io/badge/dev.to-1e1e2e?style=for-the-badge&logo=dev.to&logoColor=94e2d5&labelColor=1e1e2e" alt="dev.to"/></a>
-<a href="https://github.com/pallandir"><img src="https://img.shields.io/badge/github-1e1e2e?style=for-the-badge&logo=github&logoColor=f5c2e7&labelColor=1e1e2e" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=pallandir&label=visitors&color=cba6f7&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -24,9 +23,7 @@
 <img align="right" src="./assets/about-me.png" alt="Illustrated artist's desk under neon sign" width="38%"/>
 
 &nbsp;
-
 &nbsp;
-
 Hey, I'm Pallandir. I do <b>backend</b> stuff ☁️💻 these days. I started out in <b>cybersecurity</b>, then ended up in a <b>Cloud Center of Excellence</b>, which is a fancy name for the team that gets pulled into the messy cloud questions. Been writing code for around five years.
 
 > I opened this GitHub in 2024 to start over with a clean slate. It's where I keep the things I'm actually proud of, or trying to be. 🚀
@@ -44,7 +41,6 @@ I live in <b>Singapore</b> 🇸🇬. Used to do full-stack, but lately I keep ge
 <img align="left" src="./assets/tech-stack-small.jpg" alt="Illustrated cafe drinks postcard" width="38%"/>
 
 &nbsp;
-
 &nbsp;
 
 <div align="center">
