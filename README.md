@@ -24,7 +24,7 @@
 
 &nbsp;
 &nbsp;
-I'm a <b>backend</b> engineer ☁️💻 with around five years of experience. I began my career in <b>cybersecurity</b> and now work within a <b>Cloud Center of Excellence</b>.
+I'm a <b>backend</b> engineer with around five years of experience. I began my career in <b>cybersecurity</b> and now work within a <b>Cloud Center of Excellence</b>.
 
 > I created this GitHub account in 2024 as a fresh start. It is where I keep the projects I am most proud of. 🚀
 
@@ -45,7 +45,7 @@ I am based in <b>Singapore</b> 🇸🇬. I began in full-stack development, but 
 
 <div align="center">
 
-My first <b>full-stack</b> role taught me to value how software looks 🎨 and feels to use ✨. Over time, my interest has moved toward what lies beneath: the APIs ⚙️, how the components fit together 🧠, and the infrastructure everything depends on 🚀.
+My first <b>full-stack</b> role taught me to value how software looks and feels to use ✨. Over time, my interest has moved toward what lies beneath: the APIs, how the components fit together, and the infrastructure everything depends on.
 
 &nbsp;
 
