@@ -24,11 +24,11 @@
 
 &nbsp;
 &nbsp;
-Hey, I'm Pallandir. I do <b>backend</b> stuff ☁️💻 these days. I started out in <b>cybersecurity</b>, then ended up in a <b>Cloud Center of Excellence</b>, which is a fancy name for the team that gets pulled into the messy cloud questions. Been writing code for around five years.
+I'm a <b>backend</b> engineer ☁️💻 with around five years of experience. I began my career in <b>cybersecurity</b> and now work within a <b>Cloud Center of Excellence</b>.
 
-> I opened this GitHub in 2024 to start over with a clean slate. It's where I keep the things I'm actually proud of, or trying to be. 🚀
+> I created this GitHub account in 2024 as a fresh start. It is where I keep the projects I am most proud of. 🚀
 
-I live in <b>Singapore</b> 🇸🇬. Used to do full-stack, but lately I keep getting pulled toward the <b>backend</b> side, <b>system design</b>, and just trying to write software that still makes sense six months later.
+I am based in <b>Singapore</b> 🇸🇬. I began in full-stack development, but my focus has shifted toward the <b>backend</b>, <b>system design</b>, and building software that stays clear and maintainable.
 
 <br/>
 
@@ -45,7 +45,7 @@ I live in <b>Singapore</b> 🇸🇬. Used to do full-stack, but lately I keep ge
 
 <div align="center">
 
-My first real job was <b>full-stack</b>, about three years ago. I spent a lot of time fussing over how things looked 🎨 and felt to use ✨, and honestly I still care about that. But the part I keep coming back to is what's underneath, the APIs ⚙️, how the pieces actually fit together 🧠, the boring plumbing that everything else quietly depends on 🚀.
+My first <b>full-stack</b> role taught me to value how software looks 🎨 and feels to use ✨. Over time, my interest has moved toward what lies beneath: the APIs ⚙️, how the components fit together 🧠, and the infrastructure everything depends on 🚀.
 
 &nbsp;
 
@@ -70,7 +70,7 @@ My first real job was <b>full-stack</b>, about three years ago. I spent a lot of
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true&hide_border=true&area_color=cba6f7" alt="Pallandir contributions" width="100%"/>
 
-> Quiet weeks usually mean I'm poking at something private, or just reading 🤭.
+> Quieter weeks generally mean I am working on something private or spending time reading 🤭.
 
 <br/>
 
@@ -88,11 +88,11 @@ My first real job was <b>full-stack</b>, about three years ago. I spent a lot of
 
 <div align="center">
 
-I'm trying to write a bit on <b>dev.to</b>. Whenever I post something, it should pop up here on its own.
+I have started writing on <b>dev.to</b>. New posts will appear here automatically.
 
 <!-- BLOG-POST-LIST:START -->
 
-<sub>📝 Nothing posted yet. If you want to catch the first one, you can follow me on <a href="https://dev.to/pallandir">dev.to</a>.</sub>
+<sub>📝 No posts yet. Follow me on <a href="https://dev.to/pallandir">dev.to</a> to catch the first one.</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
