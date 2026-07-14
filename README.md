@@ -31,11 +31,7 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 ## 📊 Profile stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" alt="Pallandir's stats" width="57%"/>
-</a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" alt="Pallandir's top languages" width="38%"/>
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" alt="Pallandir's stats" height="180"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" alt="Pallandir's top languages" height="180"/></a>
 </div>
 
 
