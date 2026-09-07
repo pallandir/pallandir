@@ -15,14 +15,9 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 
 ## 📊 Profile stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="54%" align="left" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" alt="Pallandir's GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="41%" align="right" src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" alt="Pallandir's most used languages" />
-</a>
-
-<br clear="all"/>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="54%" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" alt="Pallandir's GitHub stats" /></a>&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img width="41%" src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" alt="Pallandir's most used languages" /></a>
+</div>
 
 ## ![cat excited ](./assets/cat_excited.gif) Tech stack
 
