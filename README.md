@@ -16,12 +16,13 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 ## 📊 Profile stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height:200px" height=200 align="center" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" />
+  <img width="54%" align="left" src="https://custom-profile-stat-card.vercel.app/api?username=pallandir&theme=catppuccin_mocha&show_icons=true" alt="Pallandir's GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height:200px" height=200 align="center" src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" />
+  <img width="41%" align="right" src="https://custom-profile-stat-card.vercel.app/api/top-langs/?username=pallandir&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles" alt="Pallandir's most used languages" />
 </a>
 
+<br clear="all"/>
 
 ## ![cat excited ](./assets/cat_excited.gif) Tech stack
 
@@ -36,7 +37,7 @@ I'm Pallandir, a **cloud software engineer** ☁️💻 with a background in **c
 
 ## 🗂️ GitHub contributions ![cat sleep](./assets/cat_sleep.gif)
 
-<a href="#"><img alt="Pallandir contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true" /></a>
+<a href="#"><img alt="Pallandir contributions" src="https://pallandir-activity-graph.vercel.app/graph/?username=pallandir&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area=true" /></a>
 
 > When there are no commits, I'm probably working on other projects or learning something new 🤭.
 
